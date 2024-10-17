@@ -11,5 +11,10 @@ namespace WinFormsApp1
         {
             //Logica Demo1
         }
+
+        void demo2()
+        {
+
+        }
     }
 }
