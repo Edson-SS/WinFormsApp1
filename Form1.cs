@@ -29,5 +29,9 @@ namespace WinFormsApp1
         {
             //Logica Demo5
         }
+        void funcionB()
+        {
+            //Logica Demo5
+        }
     }
 }
