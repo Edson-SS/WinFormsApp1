@@ -6,5 +6,10 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
+
+        void Demo1()
+        {
+            //Logica Demo1
+        }
     }
 }
